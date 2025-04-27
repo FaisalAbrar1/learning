@@ -1,0 +1,16 @@
+.dark{
+  color: white;
+  background-color: black;
+}
+.light{
+  background-color: white;
+  color: black;
+}
+
+
+div{
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
